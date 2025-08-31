@@ -5,8 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class DiscoApp {
-
 	public static void main(String[] args) {
-		SpringApplication.run(DiscoApp.class, args);
-	}
+	SpringApplication.run(DiscoApp.class, args);
+}
 }
